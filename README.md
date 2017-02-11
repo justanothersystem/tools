@@ -71,4 +71,6 @@
 
 [ConvertImage](http://www.convertimage.net/online-photo-effects/digital-painting-paint-effect.asp) - Upload an image, choose a brush size and this program converts your photo to a painting. Can convert image to PSD, JPG, GIF, PDF, BMP, TIF, etc. By [ConvertImage](https://twitter.com/ConvertImageNet)
 
-[Super Mario Paint](http://www.playretrogames.com/3031-super-mario-paint) - Online emulator to run Super Mario Paint in browser! Screenshot to export image? Works fullscreen. By [PlayRetroGames](Playretrogames.com). 
+[Super Mario Paint](http://www.playretrogames.com/3031-super-mario-paint) - Online emulator to run Super Mario Paint in browser! Screenshot to export image? Works fullscreen. By [PlayRetroGames](Playretrogames.com).
+
+[IcicleBubbles](http://edankwan.com/experiments/icicle-bubbles/) - Lush bubble drawing Chrome app with WebGL, lots of tweaks, and ability to save as png/bmp. By [Edan Kwan](http://www.edankwan.com)
