@@ -75,6 +75,6 @@
 
 [IcicleBubbles](http://edankwan.com/experiments/icicle-bubbles/) - Lush bubble drawing Chrome app with WebGL, lots of tweaks, and ability to save as png/bmp. By [Edan Kwan](http://www.edankwan.com)
 
-[437.rocks](http://437.rocks/) - Pretty great collaborative ANSI/Ascii/Color Drawing Tool with group chat. Outputs to txt and png. By ??
+[ANSiEdit](http://437.rocks/) - Pretty great collaborative ANSI/Ascii/Color Drawing Tool with group chat. Outputs to txt and png. By [Blocktronics](http://blocktronics.org/projects/)
 
 [Online Image Editor](http://www.online-image-editor.com/) - Web 1.0/imagemagick-style fun image generator and filters, meme text input labeled *LOL Cats Text* and a *2013* tab with speech bubble, sparkles, rain and other stickers/generators. Unique [API](http://www.online-image-editor.com//help/api). Can create moving gifs. Ad-supported. By [OIE](http://www.online-image-editor.com/)
