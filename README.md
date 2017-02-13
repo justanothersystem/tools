@@ -57,6 +57,8 @@
 
 [No Paint](https://nopaint.org.jas.life/) - Generate pictures by accepting or rejecting auto-made marks by [Jeffrey Scudder](http://rey.sc)
 
+[thePRBAT](https://bin.sc.jas.life/Projects/thePRBAT/) - Alternative painting tool for drawing with custom, colored brushes. [Jeffrey Scudder](http://rey.sc)
+
 [FlockDraw](http://flockdraw.com/) - Collaborative online drawing with *room* and chat functionality, with gallery, ad-upported, by [FlockDraw](https://twitter.com/flockdraw)
 
 [Viscosity](http://windowseat.ca/viscosity/) - Mooshy paint blending and drawing app by [Jeff Weir](http://windowseat.ca/)
