@@ -5,6 +5,8 @@
 
 ## Ascii Drawing Apps
 
+[Make8BitArt](https://make8bitart.com/) - Well-designed opensource pixel drawing site by [Jenn Schiffer](http://jennmoney.biz/)
+
 [asdf.us/ascii](http://asdf.us/ascii/) - Ascii-based drawing app by [??](http://jollo.org/LNT/doc/)
 
 [AsciiFlow](http://asciiflow.com/) - Ascii diagram flowchart creator by [Lewis Hemens](https://github.com/lewish)
