@@ -19,6 +19,8 @@
 
 ## MS Paint Style
 
+[Monopoint](https://ded.increpare.com/~locus/monopoint/) - Black and white Flash-based throwback painting app like simplified early Macpaint by [Increpare](http://increpare.com)
+
 [Sketchpad](https://sketch.io/sketchpad/) - Feature-rich web drawing app by [Sketch.io](https://sketch.io)
 
 [Pencil App](http://pencilapp.mobi/) - Minimal scribble drawing program by [Moveelo](http://moveelo.com/)
