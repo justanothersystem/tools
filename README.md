@@ -13,6 +13,8 @@
 
 ## Pixel Drawing Apps
 
+[AstroPaint](https://cdn.rawgit.com/hxlnt/astrocade/23cbe2a0/tools/astropaint/index.html) - pixel paint for the Bally Astrocade 8-bit game console by [Rachel Simone Weil](http://http://www.nobadmemories.com/)  
+
 [Pixel Pix](http://makepixelart.com/free/) - Pixel painting program by [XOXO](http://xoxco.com/)
 
 [Favicon Icon Drawing](http://www.somacon.com/p44.php) - Clunky-style pixel favicon drawing by [Shaleish N. Humbad](http://www.somacon.com/)
