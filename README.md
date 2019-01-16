@@ -15,6 +15,8 @@
 
 ## Pixel Drawing Apps
 
+[Dat Pixel Editor](https://dpe.hashbase.io) - Intuitive pixel painting application on the server and available on the distributed internet by [Christoph Budzinski](https://github.com/cryptowyrm)  
+
 [AstroPaint](https://cdn.rawgit.com/hxlnt/astrocade/23cbe2a0/tools/astropaint/index.html) - pixel paint for the Bally Astrocade 8-bit game console by [Rachel Simone Weil](http://http://www.nobadmemories.com/)  
 
 [Pixel Pix](http://makepixelart.com/free/) - Pixel painting program by [XOXO](http://xoxco.com/)
