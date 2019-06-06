@@ -25,7 +25,7 @@
 
 ## MS Paint Style
 
-[WBO](https://wbo.openode.io/) - Real-tile collaborative drawing board, with basic drawing tools (pencil, geometric shapes, and text).
+[WBO](https://wbo.openode.io/) - Real-tile collaborative drawing board, with basic drawing tools (pencil, geometric shapes, and text) by [Ophir LOJKINE](https://github.com/lovasoa)
 
 [Brittle Paint](https://ded.increpare.com/~locus/brittle_paint/) - Minimal glitchy 8bit style paint software by [Increpare](http://increpare.com)
 
