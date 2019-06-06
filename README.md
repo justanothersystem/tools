@@ -25,6 +25,8 @@
 
 ## MS Paint Style
 
+[WBO](https://wbo.openode.io/) - Real-tile collaborative drawing board, with basic drawing tools (pencil, geometric shapes, and text).
+
 [Brittle Paint](https://ded.increpare.com/~locus/brittle_paint/) - Minimal glitchy 8bit style paint software by [Increpare](http://increpare.com)
 
 [Monopoint](https://ded.increpare.com/~locus/monopoint/) - Black and white Flash-based throwback painting app like simplified early Macpaint by [Increpare](http://increpare.com)
