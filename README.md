@@ -69,6 +69,8 @@
 
 ## Weird Drawing Apps
 
+[SuperInternet Space](http://superinternet.space/) - Collaborative 360 drawing tool/space by [superinterneto](http://superinternet.cc/)  
+
 [No Paint](https://nopaint.org.jas.life/) - Generate pictures by accepting or rejecting auto-made marks by [Jeffrey Scudder](http://rey.sc)
 
 [thePRBAT](https://bin.sc.jas.life/Projects/thePRBAT/) - Alternative painting tool for drawing with custom, colored brushes. [Jeffrey Scudder](http://rey.sc)
