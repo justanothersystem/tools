@@ -1,6 +1,8 @@
 # Tools
 ## Web-based Drawing and Painting Tools
 
+A web-friendly list of these tools can be found on [glitch](https://weird-drawing-tools.glitch.me/).
+
 **Format: Tool Name, URL, Short Description, Author (E-mail, name, or URL)**
 
 ## Ascii Drawing Apps
