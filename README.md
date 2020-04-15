@@ -23,6 +23,10 @@
 
 [Favicon Icon Drawing](http://www.somacon.com/p44.php) - Clunky-style pixel favicon drawing by [Shaleish N. Humbad](http://www.somacon.com/)
 
+[RGB](https://rgb.constraint.systems/) - RGB Pixel-paint using keyboard controls, by [constraint systems](https://twitter.com/constraint_sys)  
+
+[Etch](https://etch.constraint.systems/) - a keyboard-based pixel drawing tool, by [constraint systems](https://twitter.com/constraint_sys)
+
 ## MS Paint Style
 
 [WBO](https://wbo.openode.io/) - Real-tile collaborative drawing board, with basic drawing tools (pencil, geometric shapes, and text) by [Ophir LOJKINE](https://github.com/lovasoa)
@@ -68,6 +72,16 @@
 [SpeedPaint](http://www.speedpaint.info/app) - Full-featured drawing app with layers, adjustments, many tools. Also outputs *speedpainting* videos. There is a [multi-user](http://www.speedpaint.info/multidraw) collaborative *multidraw* version as well. Ad-supported, open source/API codebase by [Queeky](https://www.queeky.com/api)
 
 ## Weird Drawing Apps
+
+[Collapse](https://collapse.constraint.systems/) - Collapse an image into itself using ranked superpixels, by [constraint systems](https://twitter.com/constraint_sys)
+
+[Res](https://res.constraint.systems/) - Selectively pixelate an image using a compression algorithm, by [constraint systems](https://twitter.com/constraint_sys)
+
+[Slide](https://slide.constraint.systems/) - Divide and slide-stretch an image using keyboard control, by [constraint systems](https://twitter.com/constraint_sys)
+
+[Freeconfig](https://freeconfig.constraint.systems/) - Push around image pixels in blocks, by [constraint systems](https://twitter.com/constraint_sys)
+
+[Hex](https://hex.constraint.systems/) - A keyboard-driven, grid-based drawing tool, by [constraint systems](https://twitter.com/constraint_sys)
 
 [SuperInternet Space](http://superinternet.space/) - Collaborative 360 drawing tool/space by [superinterneto](http://superinternet.cc/)  
 
